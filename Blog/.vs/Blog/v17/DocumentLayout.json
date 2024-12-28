@@ -1,0 +1,371 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kanan\\source\\repos\\Blog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A92E8BB-17B6-4997-99A7-A59CDA763C11}|BlogDAL\\BlogDAL.csproj|c:\\users\\kanan\\source\\repos\\blog\\blogdal\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A92E8BB-17B6-4997-99A7-A59CDA763C11}|BlogDAL\\BlogDAL.csproj|solutionrelative:blogdal\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA7225C-51A4-4DFF-BC1C-4AF1BEFD74D8}|BlogAPI\\BlogAPI.csproj|c:\\users\\kanan\\source\\repos\\blog\\blogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA7225C-51A4-4DFF-BC1C-4AF1BEFD74D8}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA7225C-51A4-4DFF-BC1C-4AF1BEFD74D8}|BlogAPI\\BlogAPI.csproj|c:\\users\\kanan\\source\\repos\\blog\\blogapi\\blogapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2EA7225C-51A4-4DFF-BC1C-4AF1BEFD74D8}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\blogapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA7225C-51A4-4DFF-BC1C-4AF1BEFD74D8}|BlogAPI\\BlogAPI.csproj|c:\\users\\kanan\\source\\repos\\blog\\blogapi\\controllers\\authscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA7225C-51A4-4DFF-BC1C-4AF1BEFD74D8}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\controllers\\authscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A92E8BB-17B6-4997-99A7-A59CDA763C11}|BlogDAL\\BlogDAL.csproj|c:\\users\\kanan\\source\\repos\\blog\\blogdal\\repostories\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A92E8BB-17B6-4997-99A7-A59CDA763C11}|BlogDAL\\BlogDAL.csproj|solutionrelative:blogdal\\repostories\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC32558-EDA6-4D22-9E4A-BE51E06A8924}|BlogMain\\BlogMain.csproj|c:\\users\\kanan\\source\\repos\\blog\\blogmain\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC32558-EDA6-4D22-9E4A-BE51E06A8924}|BlogMain\\BlogMain.csproj|solutionrelative:blogmain\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC32558-EDA6-4D22-9E4A-BE51E06A8924}|BlogMain\\BlogMain.csproj|c:\\users\\kanan\\source\\repos\\blog\\blogmain\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC32558-EDA6-4D22-9E4A-BE51E06A8924}|BlogMain\\BlogMain.csproj|solutionrelative:blogmain\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC32558-EDA6-4D22-9E4A-BE51E06A8924}|BlogMain\\BlogMain.csproj|c:\\users\\kanan\\source\\repos\\blog\\blogmain\\entites\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC32558-EDA6-4D22-9E4A-BE51E06A8924}|BlogMain\\BlogMain.csproj|solutionrelative:blogmain\\entites\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA7225C-51A4-4DFF-BC1C-4AF1BEFD74D8}|BlogAPI\\BlogAPI.csproj|c:\\users\\kanan\\source\\repos\\blog\\blogapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA7225C-51A4-4DFF-BC1C-4AF1BEFD74D8}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC32558-EDA6-4D22-9E4A-BE51E06A8924}|BlogMain\\BlogMain.csproj|c:\\users\\kanan\\source\\repos\\blog\\blogmain\\repostories\\icategoryrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC32558-EDA6-4D22-9E4A-BE51E06A8924}|BlogMain\\BlogMain.csproj|solutionrelative:blogmain\\repostories\\icategoryrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA7225C-51A4-4DFF-BC1C-4AF1BEFD74D8}|BlogAPI\\BlogAPI.csproj|c:\\users\\kanan\\source\\repos\\blog\\blogapi\\blogapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2EA7225C-51A4-4DFF-BC1C-4AF1BEFD74D8}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\blogapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A92E8BB-17B6-4997-99A7-A59CDA763C11}|BlogDAL\\BlogDAL.csproj|c:\\users\\kanan\\source\\repos\\blog\\blogdal\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A92E8BB-17B6-4997-99A7-A59CDA763C11}|BlogDAL\\BlogDAL.csproj|solutionrelative:blogdal\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A92E8BB-17B6-4997-99A7-A59CDA763C11}|BlogDAL\\BlogDAL.csproj|c:\\users\\kanan\\source\\repos\\blog\\blogdal\\repostories\\genericrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A92E8BB-17B6-4997-99A7-A59CDA763C11}|BlogDAL\\BlogDAL.csproj|solutionrelative:blogdal\\repostories\\genericrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC32558-EDA6-4D22-9E4A-BE51E06A8924}|BlogMain\\BlogMain.csproj|c:\\users\\kanan\\source\\repos\\blog\\blogmain\\repostories\\igenericrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BC32558-EDA6-4D22-9E4A-BE51E06A8924}|BlogMain\\BlogMain.csproj|solutionrelative:blogmain\\repostories\\igenericrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A92E8BB-17B6-4997-99A7-A59CDA763C11}|BlogDAL\\BlogDAL.csproj|c:\\users\\kanan\\source\\repos\\blog\\blogdal\\repostories\\categoryrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A92E8BB-17B6-4997-99A7-A59CDA763C11}|BlogDAL\\BlogDAL.csproj|solutionrelative:blogdal\\repostories\\categoryrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4196AF6D-4193-49C6-92E2-907032A7A1CA}|BlogBL\\BlogBL.csproj|c:\\users\\kanan\\source\\repos\\blog\\blogbl\\blogbl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4196AF6D-4193-49C6-92E2-907032A7A1CA}|BlogBL\\BlogBL.csproj|solutionrelative:blogbl\\blogbl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A92E8BB-17B6-4997-99A7-A59CDA763C11}|BlogDAL\\BlogDAL.csproj|c:\\users\\kanan\\source\\repos\\blog\\blogdal\\configuration\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A92E8BB-17B6-4997-99A7-A59CDA763C11}|BlogDAL\\BlogDAL.csproj|solutionrelative:blogdal\\configuration\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A92E8BB-17B6-4997-99A7-A59CDA763C11}|BlogDAL\\BlogDAL.csproj|c:\\users\\kanan\\source\\repos\\blog\\blogdal\\blogdal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7A92E8BB-17B6-4997-99A7-A59CDA763C11}|BlogDAL\\BlogDAL.csproj|solutionrelative:blogdal\\blogdal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4196AF6D-4193-49C6-92E2-907032A7A1CA}|BlogBL\\BlogBL.csproj|c:\\users\\kanan\\source\\repos\\blog\\blogbl\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4196AF6D-4193-49C6-92E2-907032A7A1CA}|BlogBL\\BlogBL.csproj|solutionrelative:blogbl\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BC32558-EDA6-4D22-9E4A-BE51E06A8924}|BlogMain\\BlogMain.csproj|c:\\users\\kanan\\source\\repos\\blog\\blogmain\\blogmain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1BC32558-EDA6-4D22-9E4A-BE51E06A8924}|BlogMain\\BlogMain.csproj|solutionrelative:blogmain\\blogmain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthsController.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\source\\repos\\Blog\\BlogAPI\\Controllers\\AuthsController.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Controllers\\AuthsController.cs",
+              "ToolTip": "C:\\Users\\kanan\\source\\repos\\Blog\\BlogAPI\\Controllers\\AuthsController.cs",
+              "RelativeToolTip": "BlogAPI\\Controllers\\AuthsController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvwYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:11:05.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Auth.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\source\\repos\\Blog\\BlogDAL\\Repostories\\Auth.cs",
+              "RelativeDocumentMoniker": "BlogDAL\\Repostories\\Auth.cs",
+              "ToolTip": "C:\\Users\\kanan\\source\\repos\\Blog\\BlogDAL\\Repostories\\Auth.cs",
+              "RelativeToolTip": "BlogDAL\\Repostories\\Auth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:09:24.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\source\\repos\\Blog\\BlogMain\\DTO\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "BlogMain\\DTO\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\kanan\\source\\repos\\Blog\\BlogMain\\DTO\\RegisterDto.cs",
+              "RelativeToolTip": "BlogMain\\DTO\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:08:18.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\source\\repos\\Blog\\BlogMain\\DTO\\LoginDto.cs",
+              "RelativeDocumentMoniker": "BlogMain\\DTO\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\kanan\\source\\repos\\Blog\\BlogMain\\DTO\\LoginDto.cs",
+              "RelativeToolTip": "BlogMain\\DTO\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:08:09.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\source\\repos\\Blog\\BlogMain\\Entites\\User\\User.cs",
+              "RelativeDocumentMoniker": "BlogMain\\Entites\\User\\User.cs",
+              "ToolTip": "C:\\Users\\kanan\\source\\repos\\Blog\\BlogMain\\Entites\\User\\User.cs",
+              "RelativeToolTip": "BlogMain\\Entites\\User\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:05:42.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\kanan\\source\\repos\\Blog\\BlogAPI\\BlogAPI.csproj",
+              "RelativeDocumentMoniker": "BlogAPI\\BlogAPI.csproj",
+              "ToolTip": "C:\\Users\\kanan\\source\\repos\\Blog\\BlogAPI\\BlogAPI.csproj",
+              "RelativeToolTip": "BlogAPI\\BlogAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-28T06:34:06.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\source\\repos\\Blog\\BlogAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\kanan\\source\\repos\\Blog\\BlogAPI\\Program.cs",
+              "RelativeToolTip": "BlogAPI\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T06:05:52.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\source\\repos\\Blog\\BlogDAL\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BlogDAL\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\kanan\\source\\repos\\Blog\\BlogDAL\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "BlogDAL\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T05:58:15.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\source\\repos\\Blog\\BlogAPI\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\kanan\\source\\repos\\Blog\\BlogAPI\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "BlogAPI\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T06:59:38.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryRepostory.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\source\\repos\\Blog\\BlogDAL\\Repostories\\CategoryRepostory.cs",
+              "RelativeDocumentMoniker": "BlogDAL\\Repostories\\CategoryRepostory.cs",
+              "ToolTip": "C:\\Users\\kanan\\source\\repos\\Blog\\BlogDAL\\Repostories\\CategoryRepostory.cs",
+              "RelativeToolTip": "BlogDAL\\Repostories\\CategoryRepostory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T06:43:07.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\source\\repos\\Blog\\BlogDAL\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "BlogDAL\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\kanan\\source\\repos\\Blog\\BlogDAL\\ServiceRegistration.cs",
+              "RelativeToolTip": "BlogDAL\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T06:47:22.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GenericRepostory.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\source\\repos\\Blog\\BlogDAL\\Repostories\\GenericRepostory.cs",
+              "RelativeDocumentMoniker": "BlogDAL\\Repostories\\GenericRepostory.cs",
+              "ToolTip": "C:\\Users\\kanan\\source\\repos\\Blog\\BlogDAL\\Repostories\\GenericRepostory.cs",
+              "RelativeToolTip": "BlogDAL\\Repostories\\GenericRepostory.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA3wDkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T06:26:59.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BlogAPI",
+              "DocumentMoniker": "C:\\Users\\kanan\\source\\repos\\Blog\\BlogAPI\\BlogAPI.csproj",
+              "RelativeDocumentMoniker": "BlogAPI\\BlogAPI.csproj",
+              "ToolTip": "C:\\Users\\kanan\\source\\repos\\Blog\\BlogAPI\\BlogAPI.csproj",
+              "RelativeToolTip": "BlogAPI\\BlogAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-28T06:57:51.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICategoryRepostory.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\source\\repos\\Blog\\BlogMain\\Repostories\\ICategoryRepostory.cs",
+              "RelativeDocumentMoniker": "BlogMain\\Repostories\\ICategoryRepostory.cs",
+              "ToolTip": "C:\\Users\\kanan\\source\\repos\\Blog\\BlogMain\\Repostories\\ICategoryRepostory.cs",
+              "RelativeToolTip": "BlogMain\\Repostories\\ICategoryRepostory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T06:25:33.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IGenericRepostory.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\source\\repos\\Blog\\BlogMain\\Repostories\\IGenericRepostory.cs",
+              "RelativeDocumentMoniker": "BlogMain\\Repostories\\IGenericRepostory.cs",
+              "ToolTip": "C:\\Users\\kanan\\source\\repos\\Blog\\BlogMain\\Repostories\\IGenericRepostory.cs",
+              "RelativeToolTip": "BlogMain\\Repostories\\IGenericRepostory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T06:20:32.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BlogBL.csproj",
+              "DocumentMoniker": "C:\\Users\\kanan\\source\\repos\\Blog\\BlogBL\\BlogBL.csproj",
+              "RelativeDocumentMoniker": "BlogBL\\BlogBL.csproj",
+              "ToolTip": "C:\\Users\\kanan\\source\\repos\\Blog\\BlogBL\\BlogBL.csproj",
+              "RelativeToolTip": "BlogBL\\BlogBL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-28T06:19:23.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\source\\repos\\Blog\\BlogDAL\\Configuration\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "BlogDAL\\Configuration\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\kanan\\source\\repos\\Blog\\BlogDAL\\Configuration\\CategoryConfiguration.cs",
+              "RelativeToolTip": "BlogDAL\\Configuration\\CategoryConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T06:12:09.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BlogDAL.csproj",
+              "DocumentMoniker": "C:\\Users\\kanan\\source\\repos\\Blog\\BlogDAL\\BlogDAL.csproj",
+              "RelativeDocumentMoniker": "BlogDAL\\BlogDAL.csproj",
+              "ToolTip": "C:\\Users\\kanan\\source\\repos\\Blog\\BlogDAL\\BlogDAL.csproj",
+              "RelativeToolTip": "BlogDAL\\BlogDAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-28T06:07:12.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\kanan\\source\\repos\\Blog\\BlogBL\\Class1.cs",
+              "RelativeDocumentMoniker": "BlogBL\\Class1.cs",
+              "ToolTip": "C:\\Users\\kanan\\source\\repos\\Blog\\BlogBL\\Class1.cs",
+              "RelativeToolTip": "BlogBL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T06:03:31.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BlogMain.csproj",
+              "DocumentMoniker": "C:\\Users\\kanan\\source\\repos\\Blog\\BlogMain\\BlogMain.csproj",
+              "RelativeDocumentMoniker": "BlogMain\\BlogMain.csproj",
+              "ToolTip": "C:\\Users\\kanan\\source\\repos\\Blog\\BlogMain\\BlogMain.csproj",
+              "RelativeToolTip": "BlogMain\\BlogMain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-28T06:01:31.728Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
